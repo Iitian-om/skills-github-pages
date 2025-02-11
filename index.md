@@ -1,10 +1,10 @@
-=======
-# Newton's Contributions to Calculus
-=======
+---
+Title: Newton's Contributions to Calculus
+---
 
 Isaac Newton, one of the most influential scientists of all time, made significant contributions to the field of calculus. Alongside Gottfried Wilhelm Leibniz, Newton is credited with the development of calculus, a branch of mathematics that deals with rates of change and the accumulation of quantities.
 
-![Isaac Newton](https://upload.wikimedia.org/wikipedia/commons/d/d1/Sir_Isaac_Newton_%281643-1727%29.jpg)
+![Isaac Newton]([https://upload.wikimedia.org/wikipedia/commons/d/d1/Sir_Isaac_Newton_%281643-1727%29.jpg](https://th.bing.com/th?id=OSK.HERO-uK6JR-kz1EHRs-0s8uQPpAx6IiJ-KeC-UFdnyXGERQ&w=312&h=200&c=15&rs=2&o=6&oif=webp&pid=SANGAM))
 
 ## Differentiation
 
@@ -52,7 +52,7 @@ This integral represents the area under the curve \( y = x^2 \) between \( x = a
 
 ## Images
 
-- Newton's Image: ![Isaac Newton](https://upload.wikimedia.org/wikipedia/commons/d/d1/Sir_Isaac_Newton_%281643-1727%29.jpg)
+- Newton's Image: ![Isaac Newton]([https://upload.wikimedia.org/wikipedia/commons/d/d1/Sir_Isaac_Newton_%281643-1727%29.jpg](https://th.bing.com/th?id=OSK.HERO-uK6JR-kz1EHRs-0s8uQPpAx6IiJ-KeC-UFdnyXGERQ&w=312&h=200&c=15&rs=2&o=6&oif=webp&pid=SANGAM))
 - Mathematical Illustration: ![Calculus Illustration](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Derivative_of_a_polynomial.svg/2000px-Derivative_of_a_polynomial.svg.png)
 
 In summary, Isaac Newton's contributions to calculus have had a profound and lasting impact on the field of mathematics and beyond. His work continues to be a cornerstone of modern science and engineering.
