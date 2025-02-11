@@ -1,5 +1,5 @@
 ---
-Title: Newton's Contributions to Calculus
+# Newton's Contributions to Calculus
 ---
 
 Isaac Newton, one of the most influential scientists of all time, made significant contributions to the field of calculus. Alongside Gottfried Wilhelm Leibniz, Newton is credited with the development of calculus, a branch of mathematics that deals with rates of change and the accumulation of quantities.
